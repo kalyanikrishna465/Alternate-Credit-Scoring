@@ -14,7 +14,7 @@ By combining these three scores, businesses can be evaluated for loan eligibilit
 - Uses Pydantic for request validation.
 - Implements CORS middleware for cross-origin requests.
 - Uses a transformer-based model for news sentiment analysis.
-- **Leverages PyTorch** for deep learning-based sentiment analysis in credit scoring.
+- Leverages PyTorch for deep learning-based sentiment analysis in credit scoring.
 
 ## Installation
 ### Prerequisites
